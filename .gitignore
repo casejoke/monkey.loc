@@ -1,0 +1,67 @@
+# Config and Htaccess Files
+/config.php
+/config-dev.php
+/admin/config.php
+/admin/config-dev.php
+#template
+/source_admin_js_html_css
+/source_template_jewish
+/material_temp
+/node_modules
+/bower_components
+
+# System Cache Files
+/system/cache/*
+!/system/cache/index.html
+
+# Image File
+!/image/no_image.jpg
+<<<<<<< Updated upstream
+
+=======
+<<<<<<< Updated upstream
+/image/flags/
+=======
+/image/flags
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+# Image Cache Files
+/image/cache/*
+!/image/cache/index.html
+
+# Modification Files
+/system/modification/*
+!/system/modification/index.html
+
+# Templates Files
+/image/templates/*
+/image/templates/default.jpg
+
+# Download Files
+/system/download/*
+!/system/download/index.html
+
+# Upload Files
+/upload/*
+
+# Download Files
+/system/upload/*
+!/system/upload/index.html
+
+!/data/index.html
+
+# Flags 
+# remove sharp char if you want to add flags to gitignore
+# /flags/*
+
+# Log Files
+/system/logs/*
+!/system/logs/index.html
+
+# If you want to ignore install file use following lines [on development mode]
+# /backup.install/*
+# /install/*
+
+# Ignore all vendor files included by composer and the lock file
+/tests/phpunit/vendor/*
+/tests/phpunit/composer.lock

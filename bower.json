@@ -1,0 +1,41 @@
+{
+  "name": "jewish",
+  "version": "0.1.0",
+  "authors": [
+    "casejoke"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "jquery": "~2.1.4",
+    "modernizr": "~2.6.3",
+    "shufflejs": "~3.0.2",
+    "open-sans-fontface": "~1.2.1",
+    "isotope": "~2.2.0",
+    "svg-loaders": "*",
+    "summernote": "~0.6.16",
+    "moment": "~2.10.3",
+    "eonasdan-bootstrap-datetimepicker": "~4.14.30",
+    "bootstrap-sweetalert": "~0.4.3",
+    "bootstrap-material-design": "~0.3.0",
+    "jquery.nicescroll": "~3.6.0",
+    "waves": "~0.7.2",
+    "fullcalendar": "~2.3.2",
+    "material-design-iconic-font": "~1.1.1",
+    "material-shadows": "~2.0.1",
+    "jquery.bootgrid": "~1.2.0",
+    "jquery.transit": "~0.9.12",
+    "jquery.ui.touch-punch.dk": "~0.3.3",
+    "jquery-file-upload": "~9.10.5",
+    "ionsound": "~3.0.6",
+    "pixi.js": "~3.0.8"
+  }
+}

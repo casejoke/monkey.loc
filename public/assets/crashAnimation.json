@@ -1,0 +1,291 @@
+﻿{"frames": {
+
+"ball1_crash0001.png":
+{
+	"frame": {"x":788,"y":198,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball1_crash0002.png":
+{
+	"frame": {"x":395,"y":2,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball1_crash0003.png":
+{
+	"frame": {"x":395,"y":100,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball1_crash0004.png":
+{
+	"frame": {"x":657,"y":296,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball1_crash0005.png":
+{
+	"frame": {"x":657,"y":394,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball2_crash0001.png":
+{
+	"frame": {"x":264,"y":2,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball2_crash0002.png":
+{
+	"frame": {"x":788,"y":296,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball2_crash0003.png":
+{
+	"frame": {"x":788,"y":394,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball2_crash0004.png":
+{
+	"frame": {"x":395,"y":198,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball2_crash0005.png":
+{
+	"frame": {"x":2,"y":2,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball3_crash0001.png":
+{
+	"frame": {"x":133,"y":394,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball3_crash0002.png":
+{
+	"frame": {"x":2,"y":100,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball3_crash0003.png":
+{
+	"frame": {"x":2,"y":198,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball3_crash0004.png":
+{
+	"frame": {"x":2,"y":296,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball3_crash0005.png":
+{
+	"frame": {"x":2,"y":394,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball4_crash0001.png":
+{
+	"frame": {"x":264,"y":394,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball4_crash0002.png":
+{
+	"frame": {"x":133,"y":2,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball4_crash0003.png":
+{
+	"frame": {"x":133,"y":100,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball4_crash0004.png":
+{
+	"frame": {"x":133,"y":198,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball4_crash0005.png":
+{
+	"frame": {"x":133,"y":296,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball5_crash0001.png":
+{
+	"frame": {"x":264,"y":198,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball5_crash0002.png":
+{
+	"frame": {"x":395,"y":296,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball5_crash0003.png":
+{
+	"frame": {"x":395,"y":394,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball5_crash0004.png":
+{
+	"frame": {"x":526,"y":2,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball5_crash0005.png":
+{
+	"frame": {"x":657,"y":2,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball6_crash0001.png":
+{
+	"frame": {"x":264,"y":100,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball6_crash0002.png":
+{
+	"frame": {"x":788,"y":2,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball6_crash0003.png":
+{
+	"frame": {"x":526,"y":100,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball6_crash0004.png":
+{
+	"frame": {"x":526,"y":198,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball6_crash0005.png":
+{
+	"frame": {"x":526,"y":296,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball7_crash0001.png":
+{
+	"frame": {"x":264,"y":296,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball7_crash0002.png":
+{
+	"frame": {"x":526,"y":394,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball7_crash0003.png":
+{
+	"frame": {"x":657,"y":100,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball7_crash0004.png":
+{
+	"frame": {"x":788,"y":100,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+},
+"ball7_crash0005.png":
+{
+	"frame": {"x":657,"y":198,"w":129,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":96},
+	"sourceSize": {"w":129,"h":96}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.169",
+	"image": "crashAnimation.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1"
+}
+}

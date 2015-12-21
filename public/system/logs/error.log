@@ -1,0 +1,388 @@
+2015-11-27 0:27:40 - PHP Notice:  Undefined variable: length_classes in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 285
+2015-11-27 0:27:40 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 285
+2015-11-27 0:27:40 - PHP Notice:  Undefined variable: weight_classes in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 299
+2015-11-27 0:27:40 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 299
+2015-11-27 0:27:40 - PHP Notice:  Undefined variable: order_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 738
+2015-11-27 0:27:40 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 738
+2015-11-27 0:27:40 - PHP Notice:  Undefined variable: order_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 752
+2015-11-27 0:27:40 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 752
+2015-11-27 0:27:40 - PHP Notice:  Undefined variable: order_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 775
+2015-11-27 0:27:40 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 775
+2015-11-27 0:27:40 - PHP Notice:  Undefined variable: return_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 1004
+2015-11-27 0:27:40 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 1004
+2015-11-27 1:15:39 - PHP Notice:  Undefined variable: length_classes in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 285
+2015-11-27 1:15:39 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 285
+2015-11-27 1:15:39 - PHP Notice:  Undefined variable: weight_classes in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 299
+2015-11-27 1:15:39 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 299
+2015-11-27 1:15:39 - PHP Notice:  Undefined variable: order_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 738
+2015-11-27 1:15:39 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 738
+2015-11-27 1:15:39 - PHP Notice:  Undefined variable: order_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 752
+2015-11-27 1:15:39 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 752
+2015-11-27 1:15:39 - PHP Notice:  Undefined variable: order_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 775
+2015-11-27 1:15:39 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 775
+2015-11-27 1:15:39 - PHP Notice:  Undefined variable: return_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 1004
+2015-11-27 1:15:39 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 1004
+2015-11-27 1:42:33 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 50
+2015-11-27 2:25:13 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 50
+2015-11-27 2:27:16 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 50
+2015-11-27 6:30:43 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 50
+2015-11-27 6:46:05 - PHP Notice:  Undefined variable: error_pcode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/register.tpl on line 117
+2015-11-27 6:46:41 - PHP Notice:  Undefined variable: error_pcode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/register.tpl on line 118
+2015-11-27 6:46:50 - PHP Notice:  Undefined variable: error_pcode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/register.tpl on line 118
+2015-11-27 6:57:03 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 50
+2015-11-27 6:58:19 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 50
+2015-11-27 6:59:15 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 50
+2015-11-27 7:03:23 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 372
+2015-11-27 7:04:01 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 377
+2015-11-27 7:04:24 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 377
+2015-11-27 8:07:17 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 8:09:27 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 8:12:03 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 8:12:44 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 8:13:24 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 8:46:07 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:17:30 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:20:12 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:26:52 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:27:47 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:27:56 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:30:18 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:30:50 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:34:17 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:35:20 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:36:32 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:36:47 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:38:56 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:51:59 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:52:38 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:53:58 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:55:30 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:59:15 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 9:59:36 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:00:20 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:05:46 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:05:54 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:16:53 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:20:17 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:23:18 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:23:31 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:23:45 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:24:55 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:25:50 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:26:13 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:27:10 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:29:11 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:29:32 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 10:30:23 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 11:42:04 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 11:49:20 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/information.tpl on line 45
+2015-11-27 12:39:09 - PHP Notice:  Error: Table 'casejoke_antibio.oc_quiz' doesn't exist<br />Error No: 1146<br />SELECT COUNT(*) AS total FROM oc_quiz in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:39:09 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/model/catalog/quiz.php on line 253
+2015-11-27 12:39:09 - PHP Notice:  Error: Table 'casejoke_antibio.oc_quiz' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_quiz d LEFT JOIN oc_quiz_description dd ON (d.quiz_id = dd.quiz_id) WHERE dd.language_id = '2' ORDER BY d.sort_order DESC LIMIT 0,20 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:39:09 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/model/catalog/quiz.php on line 230
+2015-11-27 12:39:09 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/controller/catalog/quiz.php on line 174
+2015-11-27 12:39:45 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 321
+2015-11-27 12:43:02 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 321
+2015-11-27 12:45:24 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 12:48:36 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'image = '', 
+          correct = '0',
+          sort_order = '1'' at line 4<br />Error No: 1064<br />INSERT INTO oc_qitem_question SET 
+          qitem_id = '1', 
+          question_id = '1'
+          image = '', 
+          correct = '0',
+          sort_order = '1'
+         in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'image = '', 
+          correct = '0',
+          sort_order = '2'' at line 4<br />Error No: 1064<br />INSERT INTO oc_qitem_question SET 
+          qitem_id = '1', 
+          question_id = '2'
+          image = '', 
+          correct = '0',
+          sort_order = '2'
+         in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Notice:  Error: Duplicate entry '0-2' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO oc_qitem_question_description SET 
+            qitem_question_id = '0', 
+            language_id = '2', 
+            qitem_id = '1', 
+            answer_title = 'Ларинготрахеит',
+            answer_comment = 'Не верно'
+           in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'image = '', 
+          correct = '0',
+          sort_order = '3'' at line 4<br />Error No: 1064<br />INSERT INTO oc_qitem_question SET 
+          qitem_id = '1', 
+          question_id = '3'
+          image = '', 
+          correct = '0',
+          sort_order = '3'
+         in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Notice:  Error: Duplicate entry '0-2' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO oc_qitem_question_description SET 
+            qitem_question_id = '0', 
+            language_id = '2', 
+            qitem_id = '1', 
+            answer_title = 'Отит',
+            answer_comment = 'Не верно'
+           in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'image = '', 
+          correct = '0',
+          sort_order = '4'' at line 4<br />Error No: 1064<br />INSERT INTO oc_qitem_question SET 
+          qitem_id = '1', 
+          question_id = '4'
+          image = '', 
+          correct = '0',
+          sort_order = '4'
+         in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Notice:  Error: Duplicate entry '0-2' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO oc_qitem_question_description SET 
+            qitem_question_id = '0', 
+            language_id = '2', 
+            qitem_id = '1', 
+            answer_title = 'Эпиглоттит ',
+            answer_comment = 'Не верно'
+           in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'image = '', 
+          correct = '0',
+          sort_order = '5'' at line 4<br />Error No: 1064<br />INSERT INTO oc_qitem_question SET 
+          qitem_id = '1', 
+          question_id = '5'
+          image = '', 
+          correct = '0',
+          sort_order = '5'
+         in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Notice:  Error: Duplicate entry '0-2' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO oc_qitem_question_description SET 
+            qitem_question_id = '0', 
+            language_id = '2', 
+            qitem_id = '1', 
+            answer_title = 'Риносинусит',
+            answer_comment = 'Не верно'
+           in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'image = '', 
+          correct = '1',
+          sort_order = '6'' at line 4<br />Error No: 1064<br />INSERT INTO oc_qitem_question SET 
+          qitem_id = '1', 
+          question_id = '6'
+          image = '', 
+          correct = '1',
+          sort_order = '6'
+         in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Notice:  Error: Duplicate entry '0-2' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO oc_qitem_question_description SET 
+            qitem_question_id = '0', 
+            language_id = '2', 
+            qitem_id = '1', 
+            answer_title = '1,2,4,5',
+            answer_comment = 'Верно'
+           in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 12:48:36 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/index.php:80) in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/response.php on line 12
+2015-11-27 12:57:31 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 13:01:53 - PHP Notice:  Error: Table 'casejoke_antibio.oc_quiz_share' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_quiz_share WHERE quiz_id = '1' ORDER BY quiz_share_id ASC in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-27 13:01:53 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/model/catalog/quiz.php on line 261
+2015-11-27 13:01:53 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/model/catalog/quiz.php on line 261
+2015-11-27 13:01:53 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 321
+2015-11-27 13:03:49 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 13:03:59 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 13:04:27 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 13:05:44 - PHP Notice:  Error: Could not load template /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/default/template/information/quiz/main_quiz_template.tpl! in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/engine/loader.php on line 45
+2015-11-27 13:09:51 - PHP Notice:  Undefined variable: template_name in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 114
+2015-11-27 13:09:51 - PHP Notice:  Undefined variable: template_name in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 117
+2015-11-27 13:09:51 - PHP Notice:  Error: Could not load template /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/default/template/information/quiz/.tpl! in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/engine/loader.php on line 45
+2015-11-27 13:11:01 - PHP Notice:  Error: Could not load template /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/default/template/information/quiz/quiz.tpl! in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/engine/loader.php on line 45
+2015-11-27 13:12:11 - PHP Notice:  Undefined variable: heading_title in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/quiz/quiz.tpl on line 45
+2015-11-27 13:14:41 - PHP Notice:  Undefined variable: heading_title in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/quiz/quiz.tpl on line 45
+2015-11-27 13:28:44 - PHP Notice:  Undefined variable: quiz_id in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/quiz/quiz.tpl on line 108
+2015-11-27 13:28:50 - PHP Notice:  Undefined variable: quiz_id in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/quiz/quiz.tpl on line 108
+2015-11-27 13:29:02 - PHP Notice:  Undefined variable: quiz_id in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/quiz/quiz.tpl on line 108
+2015-11-27 13:30:07 - PHP Notice:  Undefined variable: quiz_id in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/quiz/quiz.tpl on line 108
+2015-11-27 13:30:10 - PHP Notice:  Undefined variable: quiz_id in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/quiz/quiz.tpl on line 108
+2015-11-27 13:42:21 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 13:42:29 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 13:48:02 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 14:13:08 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-27 14:32:44 - PHP Notice:  Undefined variable: image in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/account.tpl on line 14
+2015-11-30 1:54:33 - PHP Notice:  Error: Table 'casejoke_antibio.oc_icategory' doesn't exist<br />Error No: 1146<br />SELECT COUNT(*) AS total FROM oc_icategory in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-30 1:54:33 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/model/catalog/icategory.php on line 202
+2015-11-30 1:54:33 - PHP Notice:  Error: Table 'casejoke_antibio.oc_icategory' doesn't exist<br />Error No: 1146<br />SELECT * FROM oc_icategory i LEFT JOIN oc_icategory_description id ON (i.icategory_id = id.icategory_id) WHERE id.language_id = '2' ORDER BY id.title ASC LIMIT 0,20 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-30 1:54:33 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/model/catalog/icategory.php on line 141
+2015-11-30 1:54:33 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/controller/catalog/icategory.php on line 174
+2015-11-30 1:54:33 - PHP Notice:  Error: Could not load template /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/icategory_list.tpl! in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/engine/loader.php on line 45
+2015-11-30 1:56:35 - PHP Notice:  Error: Could not load template /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/icategory_list.tpl! in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/engine/loader.php on line 45
+2015-11-30 2:49:11 - PHP Notice:  Undefined index: icategory_id in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/controller/catalog/icategory.php on line 426
+2015-11-30 2:49:11 - PHP Notice:  Undefined index: icategory_id in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/controller/catalog/icategory.php on line 426
+2015-11-30 2:49:11 - PHP Notice:  Undefined index: icategory_id in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/controller/catalog/icategory.php on line 426
+2015-11-30 2:57:45 - PHP Notice:  Undefined index: parent_id in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/controller/catalog/information.php on line 454
+2015-11-30 2:59:38 - PHP Notice:  Undefined variable: entry_parent in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/information_form.tpl on line 176
+2015-11-30 2:59:38 - PHP Notice:  Undefined variable: text_empty in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/information_form.tpl on line 179
+2015-11-30 3:46:12 - PHP Notice:  Error: Unknown column 'd.parent' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_icategory i LEFT JOIN oc_icategory_description id ON (i.icategory_id = id.icategory_id) WHERE id.language_id = '2' AND d.parent = '0' ORDER BY id.sort_order ASC in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-30 3:46:12 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/catalog/icategory.php on line 63
+2015-11-30 3:46:12 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/common/header.php on line 143
+2015-11-30 3:46:23 - PHP Notice:  Error: Unknown column 'd.parent_id' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_icategory i LEFT JOIN oc_icategory_description id ON (i.icategory_id = id.icategory_id) WHERE id.language_id = '2' AND d.parent_id = '0' ORDER BY id.sort_order ASC in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-30 3:46:23 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/catalog/icategory.php on line 63
+2015-11-30 3:46:23 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/common/header.php on line 143
+2015-11-30 3:46:58 - PHP Notice:  Error: Unknown column 'id.sort_order' in 'order clause'<br />Error No: 1054<br />SELECT * FROM oc_icategory i LEFT JOIN oc_icategory_description id ON (i.icategory_id = id.icategory_id) WHERE id.language_id = '2' AND i.parent_id = '0' ORDER BY id.sort_order ASC in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-30 3:46:58 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/catalog/icategory.php on line 63
+2015-11-30 3:46:58 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/common/header.php on line 143
+2015-11-30 3:46:59 - PHP Notice:  Error: Unknown column 'id.sort_order' in 'order clause'<br />Error No: 1054<br />SELECT * FROM oc_icategory i LEFT JOIN oc_icategory_description id ON (i.icategory_id = id.icategory_id) WHERE id.language_id = '2' AND i.parent_id = '0' ORDER BY id.sort_order ASC in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-11-30 3:46:59 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/catalog/icategory.php on line 63
+2015-11-30 3:46:59 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/common/header.php on line 143
+2015-11-30 23:41:21 - PHP Notice:  Undefined variable: news in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/icategory.php on line 75
+2015-12-01 2:11:01 - PHP Notice:  Error: Could not load template /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/default/template/information/icategoty.tpl! in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/engine/loader.php on line 45
+2015-12-01 3:03:28 - PHP Notice:  Undefined variable: length_classes in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 285
+2015-12-01 3:03:28 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 285
+2015-12-01 3:03:28 - PHP Notice:  Undefined variable: weight_classes in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 299
+2015-12-01 3:03:28 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 299
+2015-12-01 3:03:28 - PHP Notice:  Undefined variable: order_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 738
+2015-12-01 3:03:28 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 738
+2015-12-01 3:03:28 - PHP Notice:  Undefined variable: order_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 752
+2015-12-01 3:03:28 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 752
+2015-12-01 3:03:28 - PHP Notice:  Undefined variable: order_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 775
+2015-12-01 3:03:28 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 775
+2015-12-01 3:03:28 - PHP Notice:  Undefined variable: return_statuses in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 1004
+2015-12-01 3:03:28 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/setting/setting.tpl on line 1004
+2015-12-01 3:10:55 - PHP Notice:  Undefined variable: ric in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/icategory.php on line 90
+2015-12-04 1:24:55 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 321
+2015-12-04 1:33:47 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 341
+2015-12-04 1:34:33 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 341
+2015-12-04 1:35:08 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-04 1:40:24 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-04 1:40:33 - PHP Notice:  Error: Table 'casejoke_antibio.oc_quiz_share' doesn't exist<br />Error No: 1146<br />DELETE FROM oc_quiz_share WHERE quiz_id = '1' in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-12-04 1:40:33 - PHP Notice:  Error: Table 'casejoke_antibio.oc_quiz_share_description' doesn't exist<br />Error No: 1146<br />DELETE FROM oc_quiz_share_description WHERE quiz_id = '1' in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-12-04 1:40:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/index.php:80) in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/response.php on line 12
+2015-12-04 1:41:16 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-04 1:42:46 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-04 1:44:22 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-04 1:54:45 - PHP Notice:  Undefined variable: customer_id in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 125
+2015-12-05 3:08:54 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-07 1:36:44 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-07 3:36:34 - PHP Notice:  Undefined variable: value_result in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-07 3:40:01 - PHP Notice:  Error: Table 'casejoke_antibio.oc_oc_customer_to_quiz' doesn't exist<br />Error No: 1146<br />INSERT INTO oc_oc_customer_to_quiz SET 
+				customer_id = '62', 
+				quiz_id = '1', 
+				mark = '2', 
+				answer = 'a:3:{i:3;s:1:\"1\";i:1;s:1:\"6\";i:4;s:1:\"2\";}', 
+				ip = '::1',
+			    date_added = NOW() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-12-07 3:47:30 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-07 3:59:38 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-07 22:34:09 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-08 1:34:49 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:34:52 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:34:53 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:34:53 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:34:53 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:34:54 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:34:54 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:37:31 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:37:38 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:39:49 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:43:56 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 208
+2015-12-08 1:44:41 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 209
+2015-12-08 1:44:55 - PHP Notice:  Undefined offset: 5 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 209
+2015-12-08 2:17:25 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-08 2:45:25 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-08 2:46:44 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-08 3:23:35 - PHP Notice:  Undefined offset: 1 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 145
+2015-12-08 3:23:59 - PHP Notice:  Undefined offset: 1 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 146
+2015-12-08 3:24:57 - PHP Notice:  Undefined variable: button_remove in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/quiz/quiz_form.tpl on line 344
+2015-12-08 4:09:47 - PHP Notice:  Undefined variable: entry_season_date_end in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/place/place_form.tpl on line 124
+2015-12-08 4:09:47 - PHP Notice:  Undefined variable: season_date_end in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/view/template/catalog/place/place_form.tpl on line 128
+2015-12-08 5:24:09 - PHP Notice:  Error: Table 'casejoke_antibio.oc_promocode' doesn't exist<br />Error No: 1146<br />SELECT COUNT(*) AS total FROM oc_promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-12-08 5:24:09 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/model/localisation/promocode.php on line 82
+2015-12-08 5:24:09 - PHP Notice:  Error: Table 'casejoke_antibio.oc_promocode' doesn't exist<br />Error No: 1146<br />SELECT *, z.name, c.name AS country FROM oc_promocode z LEFT JOIN oc_country c ON (z.country_id = c.country_id) ORDER BY c.name ASC LIMIT 0,20 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-12-08 5:24:09 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/model/localisation/promocode.php on line 62
+2015-12-08 5:24:09 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/controller/localisation/promocode.php on line 174
+2015-12-08 5:28:56 - PHP Notice:  Error: Unknown column 'c.name' in 'order clause'<br />Error No: 1054<br />SELECT * FROM oc_customer_to_promocode ORDER BY c.name ASC LIMIT 0,20 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-12-08 5:28:56 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/model/localisation/promocode.php on line 72
+2015-12-08 5:28:56 - PHP Warning:  Invalid argument supplied for foreach() in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/admin/controller/localisation/promocode.php on line 174
+2015-12-09 0:02:07 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 59
+2015-12-09 0:02:07 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 69
+2015-12-09 1:15:23 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 59
+2015-12-09 1:15:23 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 69
+2015-12-14 0:38:21 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 59
+2015-12-14 0:38:21 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 69
+2015-12-14 0:39:52 - PHP Notice:  Undefined offset: 1 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 141
+2015-12-15 17:39:48 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 59
+2015-12-15 17:39:48 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 69
+2015-12-15 18:46:00 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 59
+2015-12-15 18:46:00 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 69
+2015-12-15 19:08:25 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 59
+2015-12-15 19:08:25 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 69
+2015-12-15 20:41:07 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 59
+2015-12-15 20:41:07 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 69
+2015-12-15 20:41:39 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 61
+2015-12-15 20:41:39 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 71
+2015-12-15 20:41:43 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 61
+2015-12-15 20:41:43 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 71
+2015-12-15 20:44:43 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 61
+2015-12-15 20:44:43 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 71
+2015-12-15 20:44:45 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 61
+2015-12-15 20:44:45 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 71
+2015-12-15 20:45:37 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-15 20:45:37 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-15 20:45:38 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-15 20:45:38 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-15 20:46:06 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-15 20:46:06 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-15 20:50:08 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-15 20:50:08 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-15 20:50:09 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-15 20:50:09 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-15 20:50:11 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-15 20:50:11 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-15 20:50:28 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-15 20:50:28 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-15 22:13:21 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-15 22:13:21 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-15 23:25:19 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-15 23:25:19 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-16 0:31:04 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-16 0:31:04 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-16 0:52:33 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-16 0:52:33 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-16 1:53:49 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-16 1:53:49 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-16 1:53:53 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-16 1:53:53 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-16 1:54:18 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-16 1:54:18 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-16 1:54:20 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-16 1:54:20 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-16 2:04:25 - PHP Notice:  Undefined index: description in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 62
+2015-12-16 2:04:25 - PHP Notice:  Undefined variable: pagination in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/information/places_list.tpl on line 72
+2015-12-16 2:26:39 - PHP Notice:  Undefined variable: error_promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/view/theme/antibio/template/account/register.tpl on line 56
+2015-12-16 2:28:41 - PHP Notice:  Error: Unknown column 'promocode_id' in 'where clause'<br />Error No: 1054<br />SELECT * FROM oc_address WHERE promocode_id = 'asd' in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/system/library/db/mysqli.php on line 41
+2015-12-16 2:28:41 - PHP Notice:  Trying to get property of non-object in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 6
+2015-12-16 11:12:03 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:03 - PHP Notice:  Undefined variable: data in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 10
+2015-12-16 11:12:03 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:03 - PHP Notice:  Undefined variable: data in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 10
+2015-12-16 11:12:03 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:03 - PHP Notice:  Undefined variable: data in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 10
+2015-12-16 11:12:03 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:03 - PHP Notice:  Undefined variable: data in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 10
+2015-12-16 11:12:03 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:03 - PHP Notice:  Undefined variable: data in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 10
+2015-12-16 11:12:03 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:03 - PHP Notice:  Undefined variable: data in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 10
+2015-12-16 11:12:03 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:03 - PHP Notice:  Undefined variable: data in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 10
+2015-12-16 11:12:03 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:03 - PHP Notice:  Undefined variable: data in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 10
+2015-12-16 11:12:03 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:03 - PHP Notice:  Undefined variable: data in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 10
+2015-12-16 11:12:03 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:03 - PHP Notice:  Undefined variable: data in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/model/account/promocode.php on line 10
+2015-12-16 11:12:36 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:36 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:36 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:36 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:36 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:36 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:36 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:36 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:36 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 11:12:36 - PHP Notice:  Undefined index: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 15
+2015-12-16 16:56:06 - PHP Notice:  Undefined variable: promocode in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/promocode.php on line 10
+2015-12-16 23:34:47 - PHP Notice:  Undefined offset: 1 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 141
+2015-12-17 0:23:32 - PHP Notice:  Undefined index: status in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/register.php on line 391
+2015-12-17 0:25:57 - PHP Notice:  Undefined index: status in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/account/register.php on line 391
+2015-12-17 2:46:32 - PHP Notice:  Undefined offset: 1 in /Volumes/Macintosh_HD_2/mamp/local/antibio.loc/catalog/controller/information/quiz.php on line 141

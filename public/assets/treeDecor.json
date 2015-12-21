@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"Line1":
+{
+	"frame": {"x":416,"y":77,"w":233,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":42},
+	"sourceSize": {"w":233,"h":42}
+},
+"Line2":
+{
+	"frame": {"x":0,"y":77,"w":415,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":415,"h":42},
+	"sourceSize": {"w":415,"h":42}
+},
+"Line3":
+{
+	"frame": {"x":0,"y":0,"w":542,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":542,"h":76},
+	"sourceSize": {"w":542,"h":76}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.169",
+	"image": "treeDecor.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":128},
+	"scale": "1"
+}
+}

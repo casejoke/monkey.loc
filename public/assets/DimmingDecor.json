@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"Light1":
+{
+	"frame": {"x":2,"y":2,"w":150,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":149},
+	"sourceSize": {"w":150,"h":149}
+},
+"Light2":
+{
+	"frame": {"x":2,"y":153,"w":150,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":149},
+	"sourceSize": {"w":150,"h":149}
+},
+"Light3":
+{
+	"frame": {"x":2,"y":304,"w":150,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":149},
+	"sourceSize": {"w":150,"h":149}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.169",
+	"image": "DimmingDecor.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

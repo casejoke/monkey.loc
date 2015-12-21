@@ -1,0 +1,133 @@
+html {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden; }
+
+.wrapper {
+  position: absolute;
+  height: 640px;
+  width: 960px;
+  top: 50%;
+  left: 50%;
+  margin-left: -480px;
+  margin-top: -320px; }
+
+.container {
+  width: 960px;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 152px; }
+
+#box1 {
+  background-image: url("../images/box1.png");
+  position: absolute;
+  left: 6px;
+  top: -228px;
+  width: 676px;
+  height: 216px;
+  z-index: 5;
+  margin: 6px;
+  -webkit-transform: translate(232px, 250px);
+  -moz-transform: translate(232px, 250px); }
+
+#box2 {
+  background-image: url("../images/box2.png");
+  position: absolute;
+  left: 699px;
+  top: -226px;
+  width: 216px;
+  height: 213px;
+  z-index: 4;
+  margin: 6px;
+  -webkit-transform: translate(0px, 475px);
+  -moz-transform: translate(0px, 475px); }
+
+#red-box {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 960px;
+  height: 640px;
+  z-index: 3;
+  background-image: url("../images/gamepreview.jpg");
+  -webkit-transform: translate(-13px, 82px) scale(0.46, 0.46);
+  -moz-transform: translate(-13px, 82px) scale(0.46, 0.46); }
+
+#blue-box {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 960px;
+  height: 640px;
+  z-index: 12;
+  background-color: rgba(135, 206, 235, 0.5); }
+
+#box3 {
+  background-image: url("../images/box3.png");
+  position: absolute;
+  left: 6px;
+  top: 640px;
+  width: 676px;
+  height: 216px;
+  z-index: 2;
+  margin: 6px;
+  -webkit-transform: translate(235px, -80px);
+  -moz-transform: translate(235px, -80px); }
+
+#head {
+  background-image: url("../images/head.jpg");
+  position: absolute;
+  top: -960px;
+  margin-left: -480px;
+  width: 1920px;
+  height: 726px;
+  z-index: 12;
+  -webkit-transform: translate(0px, 230px);
+  -moz-transform: translate(0px, 230px); }
+
+.menu {
+  background-image: url("../images/menu.jpg");
+  position: absolute;
+  left: -236px;
+  top: 0px;
+  width: 230px;
+  height: 1236px;
+  z-index: 12; }
+
+#box4 {
+  background-image: url("../images/box4.png");
+  position: absolute;
+  left: 704px;
+  top: 646px;
+  width: 216px;
+  height: 216px;
+  z-index: 5;
+  -webkit-transform: translate(-457px, 150px);
+  -moz-transform: translate(-457px, 150px); }
+
+#box5 {
+  background-image: url("../images/box5.png");
+  position: absolute;
+  left: 12px;
+  top: 874px;
+  width: 446px;
+  height: 216px;
+  z-index: 5;
+  -webkit-transform: translate(465px, -78px);
+  -moz-transform: translate(465px, -78px); }
+
+#menu {
+  background-image: url("../images/menu.jpg");
+  position: absolute;
+  left: -240px;
+  top: -228px;
+  width: 230px;
+  height: 1236px;
+  z-index: 2;
+  -webkit-transform: translate(240px, 228px);
+  -moz-transform: translate(240px, 228px); }
+
+canvas {
+  background-image: url("../images/loading.jpg");
+  visibility: hidden; }
