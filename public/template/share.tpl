@@ -20,5 +20,14 @@
   </head>
 <body >
 <img src="<?php echo $image;?>" alt="<?php echo $title; ?>">
+<script type="text/javascript">
+  function ready() {
+    window.setTimeout( function(){
+         window.location = '/' ;
+      }, 2000 );
+  }
+
+  document.addEventListener("DOMContentLoaded", ready);
+</script>
 </body>
 </html>

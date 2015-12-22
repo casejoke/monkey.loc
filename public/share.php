@@ -21,21 +21,28 @@ if (($request->server['REQUEST_METHOD'] == 'POST')) {
 	//`filename` = '" . $db->escape($filename) . "', 
 
 	//выбираем исходник для картинки
-	if((int)$request->get['point'] > 7){
+	if((int)$request->get['point'] > 10){
+		$_template = '3.jpg';
+		$x = 450;
+		$y = 232;
+		$text = $request->get['point']. ' ' . getNumEnding((int)$request->get['point'],  array('услугу', 'услуги', 'услуг'));
+		$json['share_title'] = 'Я собрал '. $request->get['point'] . ' ' . getNumEnding((int)$request->get['point'],  array('услугу', 'услуги', 'услуг'));
+		$json['share_description'] = 'А ты сможешь лучше?';
+		
+	}elseif ( (int)$request->get['point'] < 10  && (int)$request->get['point'] >= 5 ) {
 		$_template = '2.jpg';
 		$x = 450;
 		$y = 232;
-		$text = $request->get['point']. ' ' . getNumEnding($request->get['point'],  array('услуга', 'услуги', 'услуг'));
-		$json['share_title'] = 'Я собрал  '. getNumEnding($request->get['point'],  array('услуга', 'услуги', 'услуг'));
-		$json['share_description'] = 'Копирайт 2';
-		
+		$text = $request->get['point']. ' ' . getNumEnding((int)$request->get['point'],  array('услугу', 'услуги', 'услуг'));
+		$json['share_title'] = 'Я собрал '. $request->get['point'] . ' ' . getNumEnding((int)$request->get['point'],  array('услугу', 'услуги', 'услуг'));
+		$json['share_description'] = 'А ты сможешь лучше?';
 	}else{
 		$_template = '1.jpg';
 		$x = 420;
 		$y = 273;
-		$text = $request->get['point']. ' ' . getNumEnding($request->get['point'],  array('услуга', 'услуги', 'услуг'));
-		$json['share_title'] = 'Я собрал  '. getNumEnding($request->get['point'],  array('услуга', 'услуги', 'услуг'));
-		$json['share_description'] = 'Копирайт 1';
+		$text = $request->get['point']. ' ' . getNumEnding((int)$request->get['point'],  array('услугу', 'услуги', 'услуг'));
+		$json['share_title'] = 'Я собрал ' . $request->get['point'] . ' ' . getNumEnding((int)$request->get['point'],  array('услугу', 'услуги', 'услуг'));
+		$json['share_description'] = 'А ты сможешь лучше?';
 	}
 	
 
@@ -83,18 +90,22 @@ if (($request->server['REQUEST_METHOD'] == 'POST')) {
 	$share_id  = $request->get['share_id'];
 	$point  = $request->get['point'];
 	$template = new Template();
-	  $template->base 			= HTTP_SERVER;
-	  $template->image 			= 'share/'.$share_id.'.jpg';
-	  $template->share_url 			= HTTP_SERVER.'share.php?share_id='.$share_id.'&point='.$point ;
-	  if((int)$point > 7){
-		$template->title  = 'Я собрал  '. getNumEnding($request->get['point'],  array('услуга', 'услуги', 'услуг'));
-		$template->description  = 'Копирайт 2';
+	$template->base 			= HTTP_SERVER;
+	$template->image 			= 'share/'.$share_id.'.jpg';
+	$template->share_url 			= HTTP_SERVER.'share.php?share_id='.$share_id.'&point='.$point ;
+
+	if((int)$point > 10){
+		$template->title  = 'Я собрал '. $point . ' ' . getNumEnding($point,  array('услугу', 'услуги', 'услуг'));
+		$template->description  = 'А ты сможешь лучше?';
+		
+	}elseif ( (int)$point < 10  && (int)$point >= 5 ) {
+		$template->title  = 'Я собрал '. $point .  ' ' . getNumEnding($point,  array('услугу', 'услуги', 'услуг'));
+		$template->description  = 'А ты сможешь лучше?';
 		
 	}else{
-		$template->title  = 'Я собрал  '. getNumEnding($request->get['point'],  array('услуга', 'услуги', 'услуг'));
-		$template->description  = 'Копирайт 1';
+		$template->title  = 'Я собрал '. $point . ' ' . getNumEnding($point,  array('услугу', 'услуги', 'услуг'));
+		$template->description  = 'А ты сможешь лучше?';
 	}
-
 	$out = $template->render(DIR_APPLICATION.'/template/share.tpl');
 	$response->setOutput($out);
 }
