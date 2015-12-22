@@ -11404,6 +11404,7 @@ var share = {
 	share:function(network,purl, ptitle, pimg, text){
 
 	if ( network == "vk") {
+     yaCounter34351415.reachGoal('btn_vk');
 	  url  = 'http://vkontakte.ru/share.php?';
 	  url += 'url='          + encodeURIComponent(purl);
 	  url += '&title='       + encodeURIComponent(ptitle);
@@ -11413,6 +11414,7 @@ var share = {
 	  share.popup(url);
 	} 
 	if ( network == "fb" ) {
+    yaCounter34351415.reachGoal('btn_fb');
 	  url  = 'http://www.facebook.com/sharer.php?s=100';
 	  url += '&p[title]='     + encodeURIComponent(ptitle);
 	  url += '&p[summary]='   + encodeURIComponent(text);
@@ -11428,6 +11430,7 @@ var share = {
 	  	share.popup(url);
 	}
 	if ( network == "ok") {
+    yaCounter34351415.reachGoal('btn_ok');
 	  url  = 'http://www.odnoklassniki.ru/dk?st.cmd=addShare&st.s=1';
 	  url += '&st.comments=' + encodeURIComponent(text);
 	  url += '&st._surl='    + encodeURIComponent(purl);
@@ -11456,6 +11459,9 @@ function changeVolume(value){
 }
 function shareScores(value, n){			
 	share.sendPoint(value, n) 		 
+}
+function playClicked(){
+  yaCounter34351415.reachGoal('btn_play');
 }
 
 var headWidth, headMarginLeft;

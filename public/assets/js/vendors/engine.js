@@ -437,6 +437,7 @@ Stage.prototype = $extend(PIXI.Container.prototype,{
 			utils.Ticker.add($bind(this,this.fadeOutTitle));
 		}
 		this.ingamescore.show();
+		playClicked();
 	}
 	,fadeOutTitle: function() {
 		this.title.alpha -= 0.1;

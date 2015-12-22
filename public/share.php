@@ -23,8 +23,8 @@ if (($request->server['REQUEST_METHOD'] == 'POST')) {
 	//выбираем исходник для картинки
 	if((int)$request->get['point'] > 10){
 		$_template = '3.jpg';
-		$x = 450;
-		$y = 232;
+		$x = 380;
+		$y = 270;
 		$text = $request->get['point']. ' ' . getNumEnding((int)$request->get['point'],  array('услугу', 'услуги', 'услуг'));
 		$json['share_title'] = 'Я собрал '. $request->get['point'] . ' ' . getNumEnding((int)$request->get['point'],  array('услугу', 'услуги', 'услуг'));
 		$json['share_description'] = 'А ты сможешь лучше?';
